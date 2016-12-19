@@ -6,17 +6,19 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Because that way you only get the new commits when you need to.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    forks: you want to clone a github project and you want to have it in github
+    branch: When you change a feature
+    clones: To have a project in your computer
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    To see the differences between the new one and the last one you have
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
